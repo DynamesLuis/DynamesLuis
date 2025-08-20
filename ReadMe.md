@@ -1,5 +1,5 @@
 # 🌠 Hello there!:
-I'm Luis (gabo), a Computer Systems Engineer from Mexico.<br> I love technology, since I was a child I've found it interesting 🧑🏻‍💻.<br> Outside of Technology you'll find me listening to music, playing guitar or drums, watching series (mainly to learn more english) or playing video games.
+I'm Luis (gabo), a Computer Systems Engineer from Mexico.<br> I love technology, since I was a child I've found it interesting 🧑🏻‍💻.<br> Outside of Technology you'll find me listening to music, playing guitar or drums, watching series (mainly to learn more english) or playing video games.<br>
 🔭 I’m currently working on learning to code<br>🌱 I’m currently learning Java/JavaScript/Html/Css<br>⚡ Fun fact: World of Warcraft is my favorite video game. 
 
 
