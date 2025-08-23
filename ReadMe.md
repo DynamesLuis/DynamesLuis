@@ -1,7 +1,7 @@
 # 🌠 Hello there!:
 I'm Luis (gabo), a Computer Systems Engineer from Mexico. I love technology, since I was a child I've found it interesting 🧑🏻‍💻.<br> 
 🔭 I’m currently working on learning Java and improve coding skills.<br>🌱 I’m currently learning Java/JavaScript/Html/Css<br>🌎 Outside of Technology you'll find me listening to music 🎧, playing guitar or drums 🥁, watching series 🍿(mainly to learn more english) or playing video games 🎮.<br>⚡ Fun fact: World of Warcraft is my favorite video game ⚔️. 
-<img  height="200" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMxZWVtamI3Ym8zYXlpMHlhcnEycXI0OGU3MmYxOGptYWlrbzZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwzynzZbB00GA/giphy.gif">
+<img align="right" height="200" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMxZWVtamI3Ym8zYXlpMHlhcnEycXI0OGU3MmYxOGptYWlrbzZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwzynzZbB00GA/giphy.gif">
 
 
 
