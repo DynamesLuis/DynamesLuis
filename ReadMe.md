@@ -1,7 +1,8 @@
 # 🌠 Hello there!:
 I'm Luis (gabo), a Computer Systems Engineer from Mexico. I love technology, since I was a child I've found it interesting 🧑🏻‍💻.<br> Outside of Technology you'll find me listening to music, playing guitar or drums, watching series (mainly to learn more english) or playing video games.<br>
 🔭 I’m currently working on learning to code<br>🌱 I’m currently learning Java/JavaScript/Html/Css<br>⚡ Fun fact: World of Warcraft is my favorite video game. 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY2Y3FuOHByaTN4bmdsd2ZlOTl3emRqejducjJudWl4NzNmZTE0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zvr1yu00Yk4fK/giphy.gif">
+<img align="right" top="300" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMxZWVtamI3Ym8zYXlpMHlhcnEycXI0OGU3MmYxOGptYWlrbzZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwzynzZbB00GA/giphy.gif">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luis.gabriel10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-gabriel-lópez-arcos-260085308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriellp2906@gmail.com) 
