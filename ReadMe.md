@@ -4,6 +4,9 @@ I'm Luis (gabo), a Computer Systems Engineer from Mexico. I love technology, sin
 <img align="right" top="300" height="200" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMxZWVtamI3Ym8zYXlpMHlhcnEycXI0OGU3MmYxOGptYWlrbzZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwzynzZbB00GA/giphy.gif">
 
 
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luis.gabriel10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-gabriel-lópez-arcos-260085308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriellp2906@gmail.com) 
 
